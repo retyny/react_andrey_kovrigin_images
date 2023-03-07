@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="755f69e3-a009-46b8-b869-e1bf72b142ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/friend1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/friend2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/friend3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/friend4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/friend5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/friend6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/friend7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/friend8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/friend9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/main.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/sky.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TemplateReact.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/react_andrey_kovrigin_images_hw.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Squares.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Squares.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +31,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Haifa_Programming/react_andrey_kovrigin_images&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Haifa_Programming/react_andrey_kovrigin_images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Haifa_Programming\react_andrey_kovrigin_images\src\components" />
@@ -83,6 +69,8 @@
       <workItem from="1677962675690" duration="971000" />
       <workItem from="1677963819009" duration="4632000" />
       <workItem from="1677968897151" duration="177000" />
+      <workItem from="1678033514374" duration="8000" />
+      <workItem from="1678033906716" duration="9000" />
     </task>
     <servers />
   </component>
